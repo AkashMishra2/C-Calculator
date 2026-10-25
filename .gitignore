@@ -1,0 +1,13 @@
+﻿# Visual Studio temporary files
+.vs/
+
+bin/
+obj/
+
+TestResults/
+coverage/
+
+*.user
+*.suo
+Thumbs.db
+.DS_Store

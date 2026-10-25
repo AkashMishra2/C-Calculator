@@ -1,0 +1,46 @@
+
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output folders
+bin/
+obj/
+
+# Test results and code coverage
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# NuGet packages
+packages/
+
+# .NET generated files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# IDE and editor files
+.vscode/
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Publish output
+publish/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
